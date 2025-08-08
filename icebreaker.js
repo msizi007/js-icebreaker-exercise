@@ -26,3 +26,13 @@ const userDiscountCode = null
 
 console.log(`My vacation is going to be at ${dreamVacationSpot.country},${dreamVacationSpot.city} the activity will be '${dreamVacationSpot.activity}' and my favourite foods are ${favouriteFoods}.The user discount code is ${userDiscountCode}`)
 
+// A variable for a user's profile picture URL, which hasn't been set yet.
+// A uniquely large number representing a galactic star ID that is too big for a standard number type.
+//A boolean variable that indicates whether the user is currently logged in.
+
+let profilePictureUrl;
+const galacticStarID = 1234567890123456789012345678901234567890n;
+let isLoggedIn = false;
+
+console.log(`A variable for user's profile pic ID is ${profilePictureUrl}. the unique large number representing a galastic star ID is ${galacticStarID}. finally the variable that indicate whether User is logged-In is ${isLoggedIn}`);
+
