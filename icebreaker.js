@@ -8,6 +8,8 @@ let favouriteMovie = "Star Wars";
 let numberOfSiblings = 3;
 let hasSeenInception = true;
 
+console.log(`My favourite movie is ${favouriteMovie}. Have I seen this movie inception: ${true}. I have seen this movie with my ${numberOfSiblings} siblings.`);
+
 // A description of a dream vacation spot, including the country, city, and a planned activity.
 // A list of your top 3 favorite foods.
 // A variable for a user's discount code, which is intentionally left empty because they don't have one.
